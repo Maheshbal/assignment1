@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="button1">Lower</string>
+    <string name="button2">Higher</string>
+    <string name="picture1">image</string>
+    <string name="picture2">image</string>
+    <string name="Result">result</string>
+    <string name="User">User</string>
+    <string name="Computer">Computer</string>
+    <string name="Blank_strg"></string>
+</resources>
